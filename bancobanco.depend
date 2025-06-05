@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1720019789 source:c:\users\aluno\documents\codigos\bancobanco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
